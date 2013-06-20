@@ -1,0 +1,520 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- build:js scripts/vendor/modernizr.js -->
+        <script src="bower_components/modernizr/modernizr.js"></script>
+        <!-- endbuild -->
+    </head>
+	<body>
+		<div class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<a href="#" class="brand pull-left">Healthy Families NY</a>
+					<div class="nav-collapse">
+						<ul class="nav">
+							<li>
+								<a href="#">Home</a>
+							</li>
+							<li>
+								<a href="#">New screen</a>
+							</li>
+							<li>
+								<a href="#">Search cases</a>
+							</li>
+							<li>
+								<a href="#">Report catalog</a>
+							</li>
+							<li>
+								<a href="#">Logout</a>
+							</li>
+						</ul>
+					</div>
+					<form class="navbar-search pull-right">
+						<input type="text" class="search-query" placeholder="Search">
+					</form>
+				</div>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="span6">
+				<div class="accordion" id="accordion">
+					<div class="accordion-group">
+						<div class="accordion-heading">
+							<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Sites</a>
+						</div>
+						<div id="collapseOne" class="accordion-body collapse in">
+							<div class="accordion-inner">
+								<div id="divSites">
+									<div id="div2">
+										<label id="lblSites">Only for Site Selected</label>
+										<select name="ctl00$ddlSites" id="ctl00_ddlSites">
+											<option value=""> &lt;--All --&gt; </option>
+											<option value="1"> Children Youth &amp; Families </option>
+											<option value="2"> Parsons Albany Site </option>
+											<option value="5"> Parsons Cohoes Site </option>
+											<option value="3"> Trinity Institution </option>
+											<option value="4"> Whitney M Young Health Center </option>
+										</select>
+										<br>
+									</div><!-- content ends here-->
+								</div><!-- divSites -->
+							</div>
+						</div>
+					</div>
+					<div class="accordion-group">
+						<div class="accordion-heading">
+							<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">CaseFilters</a>
+						</div>
+						<div id="collapseTwo" class="accordion-body collapse">
+							<div class="accordion-inner">
+								<!--Third row-->
+								<div id="divCaseFilters">
+									<div>
+										<table cellspacing="0" cellpadding="2" rules="all" border="1" id="ctl00_gvFilters" style="width: 165px; border-collapse: collapse;">
+											<tr>
+												<th scope="col"> Use </th>
+												<th scope="col"> Filter Name </th>
+												<th scope="col"> &lt;&gt; </th>
+												<th scope="col"> Value </th>
+											</tr>
+											<tr>
+												<td>
+												<input id="ctl00_gvFilters_ctl02_chkUse" type="checkbox" name="ctl00$gvFilters$ctl02$chkUse">
+												</td>
+												<td> BB Number </td>
+												<td>
+												<input id="ctl00_gvFilters_ctl02_chkNotEqual" type="checkbox" name="ctl00$gvFilters$ctl02$chkNotEqual">
+												</td>
+												<td>
+												<select name="ctl00$gvFilters$ctl02$ddlFilterValue" id="ctl00_gvFilters_ctl02_ddlFilterValue">
+													<option value="0003"> 0003 </option>
+													<option value="0004"> 0004 </option>
+													<option value="0021"> 0021 </option>
+													<option value="0023"> 0023 </option>
+													<option value="0024"> 0024 </option>
+													<option value="0025"> 0025 </option>
+													<option value="0026"> 0026 </option>
+													<option value="0028"> 0028 </option>
+													<option value="1036"> 1036 </option>
+													<option value="1038"> 1038 </option>
+													<option value="1040"> 1040 </option>
+													<option value="1041"> 1041 </option>
+													<option value="1043"> 1043 </option>
+													<option value="1047"> 1047 </option>
+													<option value="1048"> 1048 </option>
+													<option value="1049"> 1049 </option>
+													<option value="1050"> 1050 </option>
+													<option value="1051"> 1051 </option>
+													<option value="1053"> 1053 </option>
+													<option value="1055"> 1055 </option>
+													<option value="1056"> 1056 </option>
+													<option value="1057"> 1057 </option>
+													<option value="2035"> 2035 </option>
+													<option value="2037"> 2037 </option>
+													<option value="2038"> 2038 </option>
+													<option value="2040"> 2040 </option>
+													<option value="2042"> 2042 </option>
+													<option value="2043"> 2043 </option>
+													<option value="7345"> 7345 </option>
+													<option value="7346"> 7346 </option>
+													<option value="7347"> 7347 </option>
+													<option value="7348"> 7348 </option>
+													<option value="7349"> 7349 </option>
+													<option value="7350"> 7350 </option>
+													<option value="7394"> 7394 </option>
+													<option value="7395"> 7395 </option>
+													<option value="7396"> 7396 </option>
+													<option value="7397"> 7397 </option>
+													<option value="7401"> 7401 </option>
+													<option value="7402"> 7402 </option>
+													<option value="7403"> 7403 </option>
+													<option value="7404"> 7404 </option>
+													<option value="7405"> 7405 </option>
+													<option value="7406"> 7406 </option>
+													<option value="7407"> 7407 </option>
+													<option value="7408"> 7408 </option>
+													<option value="7409"> 7409 </option>
+													<option value="7410"> 7410 </option>
+													<option value="7411"> 7411 </option>
+													<option value="7412"> 7412 </option>
+													<option value="7413"> 7413 </option>
+													<option value="7414"> 7414 </option>
+													<option value="7415"> 7415 </option>
+													<option value="7416"> 7416 </option>
+													<option value="7417"> 7417 </option>
+													<option value="7419"> 7419 </option>
+													<option value="7420"> 7420 </option>
+													<option value="7422"> 7422 </option>
+													<option value="7423"> 7423 </option>
+													<option value="7506"> 7506 </option>
+													<option value="7507"> 7507 </option>
+													<option value="7508"> 7508 </option>
+													<option value="7511"> 7511 </option>
+													<option value="7512"> 7512 </option>
+													<option value="7514"> 7514 </option>
+													<option value="8001"> 8001 </option>
+													<option value="8002"> 8002 </option>
+													<option value="8003"> 8003 </option>
+													<option value="8004"> 8004 </option>
+													<option value="8022"> 8022 </option>
+													<option value="8023"> 8023 </option>
+													<option value="8024"> 8024 </option>
+													<option value="8025"> 8025 </option>
+													<option value="8026"> 8026 </option>
+													<option value="8027"> 8027 </option>
+													<option value="8028"> 8028 </option>
+													<option value="8030"> 8030 </option>
+													<option value="8031"> 8031 </option>
+												</select></td>
+											</tr>
+											<tr>
+												<td>
+												<input id="ctl00_gvFilters_ctl03_chkUse" type="checkbox" name="ctl00$gvFilters$ctl03$chkUse">
+												</td>
+												<td> Program/Control </td>
+												<td>
+												<input id="ctl00_gvFilters_ctl03_chkNotEqual" type="checkbox" name="ctl00$gvFilters$ctl03$chkNotEqual">
+												</td>
+												<td>
+												<select name="ctl00$gvFilters$ctl03$ddlFilterValue" id="ctl00_gvFilters_ctl03_ddlFilterValue">
+													<option value="Control"> Control </option>
+													<option value="Program"> Program </option>
+												</select></td>
+											</tr>
+											<tr>
+												<td>
+												<input id="ctl00_gvFilters_ctl04_chkUse" type="checkbox" name="ctl00$gvFilters$ctl04$chkUse">
+												</td>
+												<td> Timeframe </td>
+												<td>
+												<input id="ctl00_gvFilters_ctl04_chkNotEqual" type="checkbox" name="ctl00$gvFilters$ctl04$chkNotEqual">
+												</td>
+												<td>
+												<select name="ctl00$gvFilters$ctl04$ddlFilterValue" id="ctl00_gvFilters_ctl04_ddlFilterValue">
+													<option value="After"> After </option>
+													<option value="BB+"> BB+ </option>
+													<option value="Before"> Before </option>
+												</select></td>
+											</tr>
+										</table>
+										<br>
+									</div>
+								</div><!-- content ends here-->
+							</div>
+						</div>
+					</div>
+					<div class="accordion-group">
+						<div class="accordion-heading">
+							<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">Programs</a>
+						</div>
+						<div id="collapseThree" class="accordion-body collapse">
+							<div class="accordion-inner">
+								<!-- Fourth row -->
+								<div id="divPrograms">
+									<div id="div3">
+										<label id="Label1">Only for Programs Selected</label>
+										<table id="ctl00_lgvPrograms_cblPrograms" class="cblPrograms" border="0">
+											<tr>
+												<td><span customval="">
+													<input id="ctl00_lgvPrograms_cblPrograms_0" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$0">
+													<label for="ctl00_lgvPrograms_cblPrograms_0">All Programs</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="35">
+													<input id="ctl00_lgvPrograms_cblPrograms_1" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$1">
+													<label for="ctl00_lgvPrograms_cblPrograms_1">Baby Steps Home Visiting program</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="34">
+													<input id="ctl00_lgvPrograms_cblPrograms_2" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$2" />
+													<label for="ctl00_lgvPrograms_cblPrograms_2">Best Beginnings/Alianza Dominicana, Inc.</label> </span></td>
+											</tr>
+											<tr>
+												<td><span customval="9">
+													<input id="ctl00_lgvPrograms_cblPrograms_3" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$3">
+													<label for="ctl00_lgvPrograms_cblPrograms_3">Buffalo Home Visiting Program</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="17">
+													<input id="ctl00_lgvPrograms_cblPrograms_4" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$4">
+													<label for="ctl00_lgvPrograms_cblPrograms_4">Building Healthy Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="31">
+													<input id="ctl00_lgvPrograms_cblPrograms_5" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$5">
+													<label for="ctl00_lgvPrograms_cblPrograms_5">Bushwick Bright Start</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="29">
+													<input id="ctl00_lgvPrograms_cblPrograms_6" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$6">
+													<label for="ctl00_lgvPrograms_cblPrograms_6">CAMBA's Healthy Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="4">
+													<input id="ctl00_lgvPrograms_cblPrograms_7" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$7">
+													<label for="ctl00_lgvPrograms_cblPrograms_7">Cayuga-Seneca Healthy Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="33">
+													<input id="ctl00_lgvPrograms_cblPrograms_8" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$8">
+													<label for="ctl00_lgvPrograms_cblPrograms_8">Diaspora Healthy Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="8">
+													<input id="ctl00_lgvPrograms_cblPrograms_9" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$9">
+													<label for="ctl00_lgvPrograms_cblPrograms_9">Dutchess County Healthy Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="6">
+													<input id="ctl00_lgvPrograms_cblPrograms_10" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$10">
+													<label for="ctl00_lgvPrograms_cblPrograms_10">Early Advantages</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="1">
+													<input id="ctl00_lgvPrograms_cblPrograms_11" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$11" checked="checked">
+													<label for="ctl00_lgvPrograms_cblPrograms_11">Healthy Families Albany County</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="3">
+													<input id="ctl00_lgvPrograms_cblPrograms_12" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$12">
+													<label for="ctl00_lgvPrograms_cblPrograms_12">Healthy Families Allegany/Cattaraugus</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="32">
+													<input id="ctl00_lgvPrograms_cblPrograms_13" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$13">
+													<label for="ctl00_lgvPrograms_cblPrograms_13">Healthy Families Brookdale</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="2">
+													<input id="ctl00_lgvPrograms_cblPrograms_14" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$14">
+													<label for="ctl00_lgvPrograms_cblPrograms_14">Healthy Families Broome</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="5">
+													<input id="ctl00_lgvPrograms_cblPrograms_15" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$15">
+													<label for="ctl00_lgvPrograms_cblPrograms_15">Healthy Families Chemung County</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="27">
+													<input id="ctl00_lgvPrograms_cblPrograms_16" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$16">
+													<label for="ctl00_lgvPrograms_cblPrograms_16">Healthy Families Morris Heights</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="12">
+													<input id="ctl00_lgvPrograms_cblPrograms_17" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$17">
+													<label for="ctl00_lgvPrograms_cblPrograms_17">Healthy Families Niagara</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="7">
+													<input id="ctl00_lgvPrograms_cblPrograms_18" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$18">
+													<label for="ctl00_lgvPrograms_cblPrograms_18">Healthy Families of Delaware Opportunities Inc.</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="10">
+													<input id="ctl00_lgvPrograms_cblPrograms_19" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$19">
+													<label for="ctl00_lgvPrograms_cblPrograms_19">Healthy Families of Herkimer County</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="13">
+													<input id="ctl00_lgvPrograms_cblPrograms_20" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$20">
+													<label for="ctl00_lgvPrograms_cblPrograms_20">Healthy Families of Oneida County</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="18">
+													<input id="ctl00_lgvPrograms_cblPrograms_21" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$21">
+													<label for="ctl00_lgvPrograms_cblPrograms_21">Healthy Families of Rensselaer County</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="22">
+													<input id="ctl00_lgvPrograms_cblPrograms_22" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$22">
+													<label for="ctl00_lgvPrograms_cblPrograms_22">Healthy Families Of Sullivan</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="14">
+													<input id="ctl00_lgvPrograms_cblPrograms_23" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$23">
+													<label for="ctl00_lgvPrograms_cblPrograms_23">Healthy Families Ontario</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="28">
+													<input id="ctl00_lgvPrograms_cblPrograms_24" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$24">
+													<label for="ctl00_lgvPrograms_cblPrograms_24">Healthy Families Parkchester</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="38">
+													<input id="ctl00_lgvPrograms_cblPrograms_25" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$25">
+													<label for="ctl00_lgvPrograms_cblPrograms_25">Healthy Families Staten Island</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="20">
+													<input id="ctl00_lgvPrograms_cblPrograms_26" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$26">
+													<label for="ctl00_lgvPrograms_cblPrograms_26">Healthy Families Steuben</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="30">
+													<input id="ctl00_lgvPrograms_cblPrograms_27" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$27">
+													<label for="ctl00_lgvPrograms_cblPrograms_27">Healthy Families Successful Start</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="21">
+													<input id="ctl00_lgvPrograms_cblPrograms_28" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$28">
+													<label for="ctl00_lgvPrograms_cblPrograms_28">Healthy Families Suffolk</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="23">
+													<input id="ctl00_lgvPrograms_cblPrograms_29" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$29">
+													<label for="ctl00_lgvPrograms_cblPrograms_29">Healthy Families Tioga County</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="19">
+													<input id="ctl00_lgvPrograms_cblPrograms_30" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$30">
+													<label for="ctl00_lgvPrograms_cblPrograms_30">Healthy Schenectady Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="16">
+													<input id="ctl00_lgvPrograms_cblPrograms_31" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$31">
+													<label for="ctl00_lgvPrograms_cblPrograms_31">Middletown Healthy Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="15">
+													<input id="ctl00_lgvPrograms_cblPrograms_32" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$32">
+													<label for="ctl00_lgvPrograms_cblPrograms_32">Newburgh Healthy Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="37">
+													<input id="ctl00_lgvPrograms_cblPrograms_33" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$33">
+													<label for="ctl00_lgvPrograms_cblPrograms_33">Safe Space</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="26">
+													<input id="ctl00_lgvPrograms_cblPrograms_34" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$34">
+													<label for="ctl00_lgvPrograms_cblPrograms_34">South Bronx Healthy Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="11">
+													<input id="ctl00_lgvPrograms_cblPrograms_35" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$35">
+													<label for="ctl00_lgvPrograms_cblPrograms_35">Starting Together/Healthy Families Madison</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="24">
+													<input id="ctl00_lgvPrograms_cblPrograms_36" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$36">
+													<label for="ctl00_lgvPrograms_cblPrograms_36">Ulster County Healthy Start Program</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="36">
+													<input id="ctl00_lgvPrograms_cblPrograms_37" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$37">
+													<label for="ctl00_lgvPrograms_cblPrograms_37">University Settlement Healthy Families</label></span></td>
+											</tr>
+											<tr>
+												<td><span customval="25">
+													<input id="ctl00_lgvPrograms_cblPrograms_38" type="checkbox" name="ctl00$lgvPrograms$cblPrograms$38">
+													<label for="ctl00_lgvPrograms_cblPrograms_38">Westchester County Healthy Families</label></span></td>
+											</tr>
+										</table>
+										<br>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="span12">
+				<table class="display table-bordered table-striped" id="mainTable" />
+
+				<thead>
+					<tr>
+
+						<th>Category</th>
+						<th>Report Name</th>
+						<th>Desc.</th>
+						<th>Last Run by You</th>
+						<th>Last Run by Program</th>
+						<th>Rank (Frequency) by You</th>
+						<th>Rank (Frequency) by Program</th>
+
+					</tr>
+				</thead>
+				<tbody>
+
+					<tr>
+
+						<td class="RowStyle" style="padding-right: 2px" align="left">Accreditation</td>
+						<td class="RowStyle" style="padding-right: 2px" align="left">1-1.D Assessment Information (Case Filter/Site Options)</td>
+						<td class="RowStyle" style="padding-right: 2px" align="center"><img id="ctl00_ContentPlaceHolder1_rptReportCatalog_ctl01_imgCallOut" class="calloutimg" title="&lt;b>Report Description&lt;/b>&lt;br />&lt;hr>Pre-Site visit evidence to address HFA Credentialing Site Self-Assessment Tool item1-1C. (formerly 1-1D.). Screenings/Assessments to determine eligibility for services occur either prenatally or within the first two weeks after the birth of the baby." src="../Images/callout.gif" style="border-width:0px;" /></td>
+						<td class="RowStyle" style="padding-right: 2px" align="center">01/31/2013</td>
+						<td class="RowStyle" style="padding-right: 2px" align="center">02/15/2013</td>
+						<td class="RowStyle" style="padding-right: 2px" align="center">2</td>
+						<td class="RowStyle" style="padding-right: 2px" align="center">13</td>
+						<td class="ReportClass" style="display: none;">CredentialingAssessmentInfo</td>
+						<td class="Criteria" style="display: none;">SED,CFI,PRG</td>
+						<td class="Defaults" style="display: none;">SD06</td>
+						<td class="Keywords" style="display: none;"></td>
+						<td class="ReportFK" style="display: none;">145</td>
+					</tr>
+
+					<tr>
+
+						<td class="AlternatingRowStyle" style="padding-right: 2px" align="left">Accreditation</td>
+						<td class="AlternatingRowStyle" style="padding-right: 2px" align="left">1-3 Timing of First Home Visit (Case Filter/Site Options)</td>
+						<td class="AlternatingRowStyle" style="padding-right: 2px" align="center"><img id="ctl00_ContentPlaceHolder1_rptReportCatalog_ctl02_imgCallOut" class="calloutimg" title="&lt;b>Report Description&lt;/b>&lt;br />&lt;hr>Pre-Site visit evidence to address HFA Credentialing Site Self-Assessment Tool item 1-1F. (formerly 1-3). The program ensures that, for those who accept home visitor services, the first home visit occurs prenatally or within the first three months after the birth of the baby." src="../Images/callout.gif" style="border-width:0px;" /></td>
+						<td class="AlternatingRowStyle" style="padding-right: 2px" align="center">12/16/2012</td>
+						<td class="AlternatingRowStyle" style="padding-right: 2px" align="center">02/04/2013</td>
+						<td class="AlternatingRowStyle" style="padding-right: 2px" align="center">3</td>
+						<td class="AlternatingRowStyle" style="padding-right: 2px" align="center">44</td>
+						<td class="ReportClass" style="display: none;">FirstHomeVisit</td>
+						<td class="Criteria" style="display: none;">SED,CFI,PRG</td>
+						<td class="Defaults" style="display: none;">SD12</td>
+						<td class="Keywords" style="display: none;"></td>
+						<td class="ReportFK" style="display: none;">147</td>
+					</tr>
+
+				</tbody>
+				<tfoot></tfoot>
+				</table>
+			</div>
+		</div>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src='//www.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+
+<!--
+		<script src="bower_components/sass-bootstrap/bootstrap-affix.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-alert.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-dropdown.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-tooltip.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-modal.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-transition.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-button.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-popover.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-typeahead.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-carousel.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-scrollspy.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-collapse.js"></script>
+		<script src="bower_components/sass-bootstrap/bootstrap-tab.js"></script>
+-->
+
+		<!-- endbuild -->
+        <!-- build:js scripts/main.js -->
+        <script data-main="scripts/main" src="bower_components/requirejs/require.js"></script>
+        <!-- endbuild -->
+	</body>
+</html>

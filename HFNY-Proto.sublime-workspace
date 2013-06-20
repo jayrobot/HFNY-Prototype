@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SELECt",
+				"select"
+			],
+			[
+				"FROm",
+				"from"
+			],
+			[
+				"GROUp",
+				"group"
+			],
+			[
+				"JOIn",
+				"join"
+			],
+			[
+				"For",
+				"FormReviewed"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"P",
+				"PrettyPrinterV1"
+			],
+			[
+				"na",
+				"Name"
+			],
+			[
+				"set",
+				"Set-Alias"
+			],
+			[
+				"Set",
+				"Set-Alias"
+			],
+			[
+				"id",
+				"ID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main.html",
+			"settings":
+			{
+				"buffer_size": 8432,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"strap",
+				"Strapdown Preview: preview in a browser"
+			],
+			[
+				"str",
+				"Strapdown Preview: preview in Sublime Text"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"boot",
+				"Snippet: Bootstrap starter"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp	",
+				"Set Syntax: Sublime Text Snippet (Raw)"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #include <…>"
+			],
+			[
+				"newsnippet",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"s",
+				"Set Syntax: C++"
+			],
+			[
+				"gist",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"crea",
+				"Create Xiki Buffer"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: st",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: plug",
+				"Snippet: plugin (selector)"
+			],
+			[
+				"Snippet: plu",
+				"Snippet: plugin (method extras)"
+			],
+			[
+				"jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"stra",
+				"Strapdown Preview: preview in a browser"
+			],
+			[
+				"snip boot",
+				"Snippet: Bootstrap tabbable navigation tabs on the left"
+			],
+			[
+				"snip boot gr	",
+				"Snippet: Bootstrap basic two column grid"
+			],
+			[
+				"Snippet: boot scr",
+				"Snippet: Bootstrap scripts reference"
+			],
+			[
+				"Snippet: bootstrap scr",
+				"Snippet: Bootstrap scripts reference"
+			],
+			[
+				"html",
+				"TidyHTML"
+			],
+			[
+				"ti",
+				"TidyHTML"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Dev/angular-bandcat/app/index-temp.html",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/User/GitHub.sublime-settings",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/User/SublimeXiki.sublime-settings",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/SublimeXiki/SublimeXiki.sublime-settings",
+		"/C/dev/yoember/node_modules/generator-h5bp/package.json",
+		"/C/Dev/HFNYMIS.VFP.Conversion/Conversion/Scripts/temp1.sql",
+		"/C/Dev/HFNYMIS.VFP.Conversion/Conversion/Scripts/temp2.sql",
+		"/C/Users/jr286576/Documents/WindowsPowerShell/bitbucket-andreister-powershell-for-sharpshooter.ps1",
+		"/C/Users/jr286576/Downloads/BackupSQLDataAndWebsite.ps1",
+		"/C/Users/jr286576/Documents/WindowsPowerShell/Modules/DTW.PS.PrettyPrinterV1.psm1",
+		"/C/Users/jr286576/Documents/WindowsPowerShell/Modules/DTW.PS.PrettyPrinterV1.psd1",
+		"/C/Users/jr286576/Documents/WindowsPowerShell/Modules/DTW.PS.FileSystem.Encoding.psm1",
+		"/C/Dev/MyShitApp2/app/testnewpage.html",
+		"/C/Dev/MyShitApp2/app/main.html",
+		"/C/Dev/MyShitApp2/package.json",
+		"/C/Dev/MyShitApp/component.json",
+		"/C/Dev/MyShitApp/app/scripts/main.js",
+		"/C/Dev/MyShit/app.js",
+		"/C/Dev/workout-tracker-master/models/workout.js",
+		"/C/Dev/MyShit/models/myshit.js",
+		"/C/Users/jr286576/Documents/.ssh/id_rsa.pub",
+		"/C/Users/jr286576/Downloads/Kempe.js",
+		"/C/Dev/HFNYMIS.VFP.Conversion/Conversion/Scripts/HFNY-alter_rspPerformanceTargetHD7.sql",
+		"/C/Users/jr286576/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/Get-PerformanceHistory.ps1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/Edit-FileInSublimeText.ps1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/ResolveAliases.psm1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/WindowsStartupScript.ps1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/AutoLoad.psm1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/AutoLoad-Travis.psm1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/New-Zip.ps1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/Authenticode.psm1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/Install-Module.psm1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/HttpRest.psm1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/Set-Prompt-Joel-Bennett.ps1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/PowerWatin.0.5.ps1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/Add-CounterPaths-To-MongoDB.ps1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/Show-ConsoleMenu.ps1",
+		"/C/Users/jr286576/Downloads/_Categories/PowerShell/Add-CounterPaths-To_MongoDB.ps1",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/User/PowershellSyntax.sublime-settings",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Dev/MyShitApp-yobeta3/app/index.html",
+		"/C/Dev/MyApp-Angular/.jshintrc",
+		"/C/Dev/myApp-backbone/packages.json",
+		"/C/Dev/myApp-backbone/server.js",
+		"/c/dev/MyApp-Angular/node_modules/grunt-contrib-connect/node_modules/connect/node_modules/formidable/test/legacy/simple/test-incoming-form.js",
+		"/C/Dev/MyApp-bbb/index.html",
+		"/C/Dev/MyShitApp_yobeta1/app/index.html",
+		"/C/Dev/MyShitApp2/app/index.html",
+		"/C/Dev/MyShitApp2/app/reports.html",
+		"/C/Users/jr286576/Downloads/Show-RSS.ps1",
+		"/C/Users/jr286576/Documents/WindowsPowerShell/LocalTime.ps1",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/HFNY/HFNY/Default.aspx",
+		"/C/Users/jr286576/Downloads/Get-Tail_clean.ps1",
+		"/C/Users/jr286576/Downloads/Get-Tail.ps1",
+		"/C/Users/jr286576/Downloads/posz.ps1",
+		"/C/Users/jr286576/Downloads/CmdletExtensionLibrary.ps1",
+		"/C/Users/jr286576/Downloads/FreeDriveSpace.ps1",
+		"/C/Users/jr286576/Downloads/Backup-profile.ps1",
+		"/C/Users/jr286576/Downloads/Extend-Object.ps1",
+		"/C/Users/jr286576/Downloads/Get-Tail2.ps1",
+		"/C/Users/jr286576/Downloads/Get-Tail2_clean.ps1",
+		"/C/Dev/MyShitApp-yobeta3/app/index_old.html",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/Generic Program Development/Generic Program Development.sln",
+		"/C/Users/jr286576/Music/_Sophie Grad Music 2012/SophieeeePlaylist.txt",
+		"/C/Users/jr286576/Downloads/_Work/Music and MP3s/Sophie Grad Party Playlist Adds.txt",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/HFNY/HFNY/Reports/XtraReports/Credentialing/rptHFAHomeVisitingCompletionRate_Detail.vb",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/jQuery Plugins/jaz303-tipsy-v1.0.0a-24-g9fe119e/jaz303-tipsy-9fe119e/docs/src/TipsyTest.htm",
+		"/C/H5/LIBS/JEREMY.TXT",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/jQuery Plugins/jaz303-tipsy-v1.0.0a-24-g9fe119e/jaz303-tipsy-9fe119e/docs/src/index.html",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/jQuery Plugins/jaz303-tipsy-v1.0.0a-24-g9fe119e/jaz303-tipsy-9fe119e/src/stylesheets/tipsy.css",
+		"/C/Users/jr286576/Downloads/zepto.js",
+		"/C/Users/jr286576/Documents/HFNY-ReportCatalog-storage.txt",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/HFNY.Branches.ReportCatalog/HFNY/Scripts/date.fmt.js",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/FamSys/HFNJ/BusinessObjects/codeLevel.vb",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/FamSys/HFNJ/Pages/LevelForm.aspx.vb",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/FamSys/HFNJ/Pages/LevelForm.aspx",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/HFNY.Branches.ReportCatalog/HFNY/Scripts/date2.js",
+		"/C/Users/jr286576/Downloads/deb74d4b.js",
+		"/R/HFNY_MIS_Web_development/Report specs/List of reports to be retrofitted.txt",
+		"/C/Users/jr286576/AppData/Local/Google/Chrome/User Data/Default/Session Storage/000009.sst",
+		"/K/My Music/_ToBeOrged/_Movie/movies1.dir",
+		"/R/HFNY_MIS_Web_development/Report specs/QuarterlyServiceReferrals.txt",
+		"/C/Users/jr286576/Downloads/jqia2.source/chapter2/dom.sample.html",
+		"/C/Users/jr286576/Documents/rptPreintakeActivity.txt",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/HFNY/rptFSWCaseList2.vb",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/HFNY/rptFSWCaseList2.Designer.vb",
+		"/C/Users/jr286576/Documents/Visual Studio 2010/Projects/HFNY/rptFSWCaseList2.resx",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/SVN/SVN.sublime-settings",
+		"/C/Users/jr286576/Downloads/SongsToSlaysDragonsToVol2.txt",
+		"/C/Users/jr286576/Downloads/_Work/Music and MP3s/BandsToFind.txt",
+		"/C/Users/jr286576/Documents/DataPipe 92 server Documents/PerformanceMonitorByKhalsa.htm",
+		"/R/DDISS/DEV/Visual Studio/Code Snippets/Visual Basic/My Code Snippets/XRStartEndDate.snippet",
+		"/R/DDISS/DEV/Visual Studio/Code Snippets/Visual Basic/My Code Snippets/XRStartDate.snippet",
+		"/R/DDISS/DEV/Visual Studio/Code Snippets/Visual Basic/My Code Snippets/XRFAWFK.snippet",
+		"/R/DDISS/DEV/Visual Studio/Code Snippets/Visual Basic/My Code Snippets/XRByWhom-All.snippet",
+		"/R/DDISS/DEV/Visual Studio/Code Snippets/Visual Basic/My Code Snippets/XRSiteName.snippet",
+		"/R/DDISS/DEV/Visual Studio/Code Snippets/Visual Basic/My Code Snippets/XRSiteFKAndName.snippet",
+		"/C/Users/jr286576/AppData/Roaming/Sublime Text 2/Packages/Tortoise/Default (Windows).sublime-keymap",
+		"/C/Users/jr286576/Music/ImportedPlaylists/Last 50 played.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/LetsListenFeb2012-70s.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/LetsListenFeb2012-PostHardcoreComps.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/Katy Perry Covers #1.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/LetsListenFeb2012-PostHardcoreComps-export3.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/LetsListenFeb2012-Various Artists.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/LetsListenMarch2011.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/LetsListenSept2011.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/MetalFromLibrary.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/Moral Decay etc..m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/NYE2012.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/Senses Fail, Armor For Sleep, Emery.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/The Big 4.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/ToListen.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/ToListenDec2011.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/ToListenSep2011.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/Warped2011.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/JaysFavesEarly00s.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/Imported playlists - Party.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/80sIsMetal.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/Emocore.m3u",
+		"/C/Users/jr286576/Music/ImportedPlaylists/Imported m3u playlists - Now.m3u"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"less",
+			"app_leada",
+			"frmpt",
+			"strings",
+			"set-prompt",
+			"split-pa",
+			"split",
+			"prompr",
+			"format",
+			" - ",
+			"#",
+			"”",
+			"“",
+			"hell",
+			"requirejs",
+			"datatab",
+			";",
+			"Documents and Settings",
+			";",
+			"ruby",
+			";",
+			"node",
+			"npm",
+			"tab",
+			"link",
+			"    // get querystring parameter value\n    // EX qs[\"hvscreenpk\"] <> \"\" --> EDIT else ADD\n    var qs = (function (a) {\n      if (a == \"\") return {};\n      var b = {};\n      for (var i = 0; i < a.length; ++i) {\n        var p = a[i].split('=');\n        if (p.length != 2) continue;\n        b[p[0]] = decodeURIComponent(p[1].replace(/\\+/g, \" \"));\n      } return b;\n    })(window.location.search.substr(1).split('&'));\n\n\n    jQuery.noConflict();\n\n    function KempeMomScore() {\n      var totals;\n      totals = addTotal(jQuery(\"#<%= ddlMomChildHistory.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlMomSAMICH.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlMomCPS.ClientID%> :selected\").val())\n            + addTotal(jQuery('#<%= ddlMomSelfEsteem.ClientID%> :selected').val())\n            + addTotal(jQuery('#<%= ddlMomStressor.ClientID%> :selected').val())\n            + addTotal(jQuery('#<%= ddlMomViolent.ClientID%> :selected').val())\n            + addTotal(jQuery('#<%= ddlMomExpectation.ClientID%> :selected').val())\n            + addTotal(jQuery('#<%= ddlMomDiscipline.ClientID%> :selected').val())\n            + addTotal(jQuery('#<%= ddlMomPerception.ClientID%> :selected').val())\n            + addTotal(jQuery('#<%= ddlMomBonding.ClientID%> :selected').val());\n\n      jQuery(\"#<%=txtMOMScore.ClientID %>\").val(totals);\n      KempeAssessmentResult();\n\n    }\n\n    function KempeDadScore() {\n      totals1 = 0;\n      var totals1 = addTotal(jQuery(\"#<%= ddlDadChildHistory.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlDadSAMICH.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlDadCPS.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlDadSelfEsteem.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlDadStressor.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlDadViolent.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlDadExpectation.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlDadDiscipline.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlDadPerception.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlDadBonding.ClientID%> :selected\").val());\n      jQuery('#<%=txtDadScore.ClientID %>').val(totals1);\n      KempeAssessmentResult();\n    }\n    function KempePartnerScore() {\n      var totals2 = 0;\n      totals2 = addTotal(jQuery(\"#<%= ddlPartnerChildhistory.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlPartnerSAMICH.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlPartnerCPS.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlPartnerSelfEsteem.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlPartnerStressor.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlPartnerViolent.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlPartnerExpectation.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlPartnerDiscipline.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlPartnerPerception.ClientID%> :selected\").val())\n            + addTotal(jQuery(\"#<%= ddlPartnerBonding.ClientID%> :selected\").val());\n      jQuery('#<%=txtPartnerScore.ClientID %>').val(totals2);\n      KempeAssessmentResult();\n    }\n\n\n    function addTotal(score) {\n      if (score == \"5\" || score == \"10\")\n        return parseInt(score);\n      else\n        return 0;\n    }\n\n    //If any one (Mother/Father/Partner)'s score > = 25, Positive Kempe, otherwise Negative ... Khalsa\n    function KempeAssessmentResult() {\n      var totalMomKempeScore = 0;\n      var totalDadKempeScore = 0;\n      var totalPartnerKempeScore = 0;\n\n      totalMomKempeScore = jQuery('#<%=txtMOMScore.ClientID %>').val();\n      totalDadKempeScore = jQuery('#<%=txtDadScore.ClientID %>').val();\n      totalPartnerKempeScore = jQuery('#<%=txtPartnerScore.ClientID %>').val();\n\n      if (totalMomKempeScore > 24 || totalDadKempeScore > 24 || totalPartnerKempeScore > 24) { //score of 25 or more for any means positive kempe\n        document.getElementById(\"<%= txtKempeResult.CLIENTID %>\").value = \"Positive\";\n\n        jQuery('#q48').hide();\n        jQuery('#<%=ddlNegativeReferral.ClientID %>').val(-1);\n      }\n      else {\n        document.getElementById(\"<%= txtKempeResult.CLIENTID %>\").value = \"Negative\";\n        jQuery('#q48').show();\n      }\n\n    }\n\n    jQuery(document).ready(function () {\n\n      jQuery(\"#<%=mtxtTCDOB.ClientID %>\").change(function () {\n        var xxx = jQuery(\"#<%=lblKempeDate.ClientID %>\").text().replace(/(\\d\\d)$/, \"20$1\");\n        var millisecondsPerDay = 1000 * 60 * 60 * 24;\n        var first = new Date(xxx);\n        var second = new Date(jQuery(\"#<%=mtxtTCDOB.ClientID %>\").val().replace(/(\\d\\d)$/, \"20$1\"));\n        var months = Math.round((first.getTime() - second.getTime()) / millisecondsPerDay / 30.5 * 10) / 10;\n        if (months > 3) {\n          alert(\"Warning! The TCDOB entered makes Target Child \" + months + \" months old.\");\n        }\n      });\n\n\n      //Format for Medicaid Case Number is for example: AANNNNNA where Letters (A) are caps, N are numbers\n      jQuery('#<%=txtHIMedicaidCaseNumber.ClientID%>').mask(\"aa99999a\");\n      //validate Medicaid Case Number\n      jQuery(\"#<%= txtHIMedicaidCaseNumber.ClientID %>\").blur(function (event) {\n        var MedicaidCaseNumber = jQuery(\"#<%= txtHIMedicaidCaseNumber.ClientID %>\").val().toUpperCase();\n        jQuery(\"#<%= txtHIMedicaidCaseNumber.ClientID %>\").val(MedicaidCaseNumber)\n        \n      });\n\n\n            /** Start of Source Code for showing submit/cancel button on last tab ... Khalsa **/\n            // submit/cancel buttons only become visible if user is editing the record or during add, it only becomes visible on the last tab.\n        \n            var $SubmitButton = jQuery('[ID$=\"btnSubmit\"]');\n            var $SubmitAndApproveButton = jQuery('[ID$=\"btnApprove\"]');\n            var $CancelButton = jQuery('[ID$=\"btnCancel\"]');\n\n            //Are you supervisor, if yes show 'Submit and Approve' button too  ... khalsa\n            var bSuperVisorMode = $SubmitAndApproveButton.is(\":visible\");\n\n            //alert(bSuperVisorMode);\n\n            //Start - On PageLoad - done just once\n            <%If bEdit Then%> \n                //Edit in progress   \n                $SubmitButton.show(\"slow\");\n                 if (bSuperVisorMode){\n                        $SubmitAndApproveButton.show(\"slow\");\n                     }\n                $CancelButton.show(\"slow\");\n            <%Else%> \n                //New record being added\n                $SubmitButton.hide();\n                if (bSuperVisorMode){\n                    $SubmitAndApproveButton.hide();\n                 }\n                $CancelButton.hide();\n            <%End If %>\n            //End - On PageLoad - done just once\n\n\n            jQuery(\"#tabs\").tabs({\n                select: function (event, ui) {\n                    if (ui.panel.id == \"issues\") {\n                        $SubmitButton.show(\"slow\");\n                        if (bSuperVisorMode) {\n                            $SubmitAndApproveButton.show(\"slow\"); \n                        }\n                        $CancelButton.show(\"slow\");\n				    }else {\n						    $SubmitButton.hide();\n                            if (bSuperVisorMode){\n                                $SubmitAndApproveButton.hide();\n                             }\n						    $CancelButton.hide();\n				    };\n                \n                    //Overwrite, if edits in progress\n                    <%If bEdit Then 'Edit in progress%>  \n                        //Edit in progress   \n                        $SubmitButton.show(\"slow\");\n                        if (bSuperVisorMode){\n                                $SubmitAndApproveButton.show(\"slow\");\n                             }\n                        $CancelButton.show(\"slow\");\n                    <%End If %>\n\n                }\n            });\n\n            /** End of Source Code for showing submit/cancel button on last tab ... Khalsa **/\n\n      jQuery(\"#<%=mtxtTCDOB.ClientID%>\").mask(\"99/99/99\");\n      jQuery(\"#<%=mtxtFirstPrenatalCareVisit.ClientID%>\").mask(\"99/99/99\");\n\n\n\n      jQuery(\"#pc1id\").html(qs[\"pc1id\"]);\n\n      TabOrder();\n\n      jQuery(\".num-only\").ForceNumericOnly();\n\n      //8. validation for Gravida\n      jQuery(\"#<%=TxtGravida.ClientID%>\").change(function () {\n\n        if (jQuery('#<%=TxtGravida.ClientID%>').val() > 14)\n          alert('Is this number correct i.e. Gravida = ' + jQuery('#<%=TxtGravida.ClientID%>').val());\n      });\n\n      //8. validation for Parity\n      jQuery(\"#<%=TxtParity.ClientID%>\").change(function () {\n        if (jQuery('#<%=TxtParity.ClientID%>').val() > 14)\n          alert('Is this number correct i.e. Parity = ' + jQuery('#<%=TxtParity.ClientID%>').val());\n      });\n\n\n      // change event for 8 Prenatal Care: Received/Receiving\n      jQuery(\"#<%=ddlReceivingPrenatalCare.ClientID%>\").change(function () {\n        ReceivingPrenatalCare()\n      });\n      // change event for 9 First Prenatal Visit Date\n      jQuery(\"#<%=mtxtFirstPrenatalCareVisit.ClientID%>\").change(function () {\n        ReceivingPrenatalCare()\n      });\n      // change event for 9 First Prenatal Visit Date Unknown\n      jQuery(\"#<%=chkFPCVUnknown.ClientID%>\").click(function () {\n        if (jQuery('#<%=chkFPCVUnknown.ClientID%>').is(\":checked\")) {\n          jQuery('#<%=mtxtFirstPrenatalCareVisit.ClientID%>').val('');\n          jQuery('#divFirstPrenatalCareVisit').hide();\n        }\n        else {\n          jQuery('#divFirstPrenatalCareVisit').hide();\n        }\n        ReceivingPrenatalCare()\n      });\n      // click event for 60n Issues\n      jQuery(\"#<%=ddlOtherIssue.ClientID%>\").change(function () {\n        OtherIssues()\n      });\n      // click event for 49 Employed\n      jQuery(\"#<%=ddlEmployed.ClientID %>\").change(function () {\n        EmployedHrs()\n      });\n\n      // click event for the Public Benefits Emergency\n      jQuery(\"#<%=ddlPBEmergencyAssistance.ClientID %>\").change(function () {\n        PBEmergency()\n      });\n      // click event for the other present\n      jQuery(\"#<%=chkOtherPresent.ClientID %>\").click(function () {\n        OtherPresent()\n      });\n      // click event for the PC1Receiving Mediciad\n      jQuery(\"#<%=ddlPC1ReceivingMedicaid.ClientID %>\").change(function () {\n        PC1ReceivingMedicaid()\n      });\n      // make the uninsured/unknown logically work with the insurance\n      jQuery('#<%=chkHIFamilyChildHealthPlus.ClientID %>').click(function () {\n        Insurance()\n      });\n      jQuery('#<%=chkHIPrivateInsurance.ClientID %>').click(function () {\n        Insurance()\n      });\n      jQuery('#<%=chkHIHIOther.ClientID %>').click(function () {\n        Insurance()\n      });\n      jQuery('#<%=chkHIUnknown.ClientID %>').click(function () {\n        Insurance()\n      });\n      jQuery('[ID$=\"ddlAuditCHowOften\"]').change(function () {\n        AuditCDisableControls();\n      });\n\n\n// do it on server side    \n//      if (jQuery(\"#<%=HFCaseProgress.ClientID %>\").val() >= 5) {\n//		  	jQuery(\"#<%=mtxtTCDOB.ClientID %>\").datepicker(\"disable\"); // disable datepicker;\n//       	jQuery(\"#<%=mtxtTCDOB.ClientID %>\").attr(\"readonly\", \"readonly\");       // make it readonly (not disabled)\n//       	ValidatorEnable(jQuery(\"#<%= rfvTCDOB.ClientID %>\").get(0), false );    // disable required validator\n//      }\n\n\n      // reset everything as the page reloads\n      InitialKempeResult(); //leave it here\n      ReceivingPrenatalCare();\n      EmployedHrs();\n      OtherIssues();\n      PBEmergency();\n      OtherPresent();\n      KempeMomScore();\n      KempeDadScore();\n      KempePartnerScore();\n      KempeHITSScore();\n      KempeAuditCScore();\n      AuditCDisableControls();\n      PC1ReceivingMedicaid();\n      Insurance();\n\n\n      // 53a and 53b are NO MORE mutually exclusive. John changed his mind now ..... khalsa 11/29/2012\n\n      // 53a and 53b are mutually exclusive\n      // change event for 53a\n//      jQuery(\"#<%=chkOBPHome.ClientID%>\").click(function () {\n//        if (jQuery('#<%=chkOBPHome.ClientID%>').is(\":checked\")) {\n//          jQuery('#<%=chkPartnerHome.ClientID%>').attr('checked', false)\n//        }\n//      });\n\n//      // change event for 53b\n//      jQuery(\"#<%=chkPartnerHome.ClientID%>\").click(function () {\n//        if (jQuery('#<%=chkPartnerHome.ClientID%>').is(\":checked\")) {\n//          jQuery('#<%=chkOBPHome.ClientID%>').attr('checked', false)\n//        }\n//      });\n\n    });   /* end of document.ready(function() */\n    \n    function ReceivingPrenatalCare() {\n      if (jQuery('#<%=ddlReceivingPrenatalCare.ClientID %> :selected').val() == '1') {\n        jQuery('#divFirstPrenatalCareVisitMain').show();\n        if (jQuery('#<%=mtxtFirstPrenatalCareVisit.ClientID%>').val() !== '') {\n          jQuery('#<%=chkFPCVUnknown.ClientID%>').attr('checked', false)\n          //jQuery('#divFirstPrenatalCareVisitUnknown').hide();\n        }\n        else {\n          jQuery('#divFirstPrenatalCareVisitUnknown').show();\n        }\n        if (jQuery('#<%=chkFPCVUnknown.ClientID%>').is(\":checked\")) {\n          jQuery('#<%=mtxtFirstPrenatalCareVisit.ClientID%>').val('');\n          jQuery('#divFirstPrenatalCareVisit').hide();\n        }\n        else {\n          jQuery('#divFirstPrenatalCareVisit').show();\n        }\n      }\n      else {\n        jQuery('#<%=mtxtFirstPrenatalCareVisit.ClientID%>').val('');\n        jQuery('#<%=chkFPCVUnknown.ClientID %>').attr('checked', false);\n        jQuery('#divFirstPrenatalCareVisitMain').hide();\n      }\n    }\n\n    function EmployedHrs() {\n      if (jQuery('#<%=ddlEmployed.ClientID %> :selected').val() !== '1') {\n        jQuery('#<%= txthrspermonth.ClientID%>').val('');\n        jQuery('#divEmployed').hide();\n      }\n      else\n        jQuery('#divEmployed').show();\n      jQuery('#<%= txthrspermonth.ClientID%>').focus();\n    }\n    function OtherIssues() {\n      if (jQuery('#<%=ddlOtherIssue.ClientID%> :selected').val() == '1') {\n        jQuery('#<%=txtIssueSpecify.ClientID%>').show();\n        jQuery('#<%=txtIssueSpecify.ClientID%>').focus();\n      }\n      else {\n        jQuery('#<%=txtIssueSpecify.ClientID%>').hide();\n        jQuery('#<%=txtIssueSpecify.ClientID%>').val('');\n      }\n    }\n    function PBEmergency() {\n      if (jQuery('#<%=ddlPBEmergencyAssistance.ClientID %> :selected').val() == '1')\n        jQuery('#divEA').show();\n      else {\n        jQuery('#divEA').hide();\n      }\n    }\n    function OtherPresent() {\n      if (jQuery('#<%=chkOtherPresent.ClientID %>').attr('checked'))\n        jQuery('#<%=txtPresentSpecify.ClientID %>').show();\n      else {\n        jQuery('#<%=txtPresentSpecify.ClientID %>').hide();\n        jQuery('#<%=txtPresentSpecify.ClientID %>').val('');\n      }\n    }\n\n    function PC1ReceivingMedicaid() {\n      if (jQuery('#<%=ddlPC1ReceivingMedicaid.ClientID %> :selected').val() == '1') {\n        //                jQuery('#td53').show();\n        //                jQuery('#td54').show();\n        jQuery('#td55').hide();\n        jQuery('#td55 input:checkbox').attr('checked', false)\n        jQuery('#divHIMedicaidCaseNumber').show();\n      }\n      else {\n        //                jQuery('#td53').hide();\n        //                jQuery('#td54').hide();\n        jQuery('#td55').show();\n        jQuery('#<%=chkHIFamilyChildHealthPlus.ClientID %>').focus();\n        jQuery(\"#<%=txtHIMedicaidCaseNumber.ClientID %>\").val(\"\");\n        jQuery('#divHIMedicaidCaseNumber').hide();\n        Insurance();\n      }\n\n    }\n    function Insurance() {\n      if (!jQuery('#td55 input:checkbox').is(':checked')) {\n        jQuery('#divFamilyChildHealthPlus').show();\n        jQuery('#divPrivateInsurance').show();\n        jQuery('#divHIOther').show();\n        jQuery('#divUnknown').show();\n        jQuery('#divHIUninsured').show();\n      }\n      if (jQuery('#<%=chkHIFamilyChildHealthPlus.ClientID %> ').is(':checked') ||\n            jQuery('#<%=chkHIPrivateInsurance.ClientID %> ').is(':checked') ||\n            jQuery('#<%=chkHIHIOther.ClientID %>').is(':checked')) {\n        // jQuery('#td55 input:checkbox:gt(2)').attr('checked', false);\n        jQuery('#td55 input:checkbox:gt(2)').prop('checked', false);\n        jQuery('#divUnknown').hide();\n      }\n      if (jQuery('#<%=chkHIUnknown.ClientID %>').is(':checked')) {\n        // jQuery('#td55 input:checkbox').not(':eq(4)').attr('checked', false);\n        jQuery('#td55 input:checkbox').not(':eq(3)').prop('checked', false);\n        jQuery('#divFamilyChildHealthPlus').hide();\n        jQuery('#divPrivateInsurance').hide();\n        jQuery(\"#divHIOther\").hide();\n        jQuery('#divHIUninsured').hide();\n      }\n\n      //if chkHIHIOther is checked then show txtSpecifyHIOther textbox\n      OtherHealthInsurance()\n\n    }\n\n    function OtherHealthInsurance() {\n      if (jQuery('#<%=chkHIHIOther.ClientID%>').is(\":checked\"))\n        jQuery('#<%=txtSpecifyHIOther.ClientID%>').show();\n      else {\n        jQuery('#<%=txtSpecifyHIOther.ClientID%>').hide();\n        jQuery('#<%=txtSpecifyHIOther.ClientID%>').val('');\n      }\n    }\n\n\n    function TabOrder() {\n      var tabindex = 1;\n      jQuery('input,select').each(function () {\n        if (this.type != \"hidden\") {\n          var jQueryinput = jQuery(this);\n          jQueryinput.attr(\"tabindex\", tabindex);\n          tabindex++;\n        }\n      });\n\n      var start = parseInt(jQuery('#<%=ddlMomChildHistory.ClientID %>').attr('tabindex'));\n\n      jQuery('#<%=ddlDADChildHistory.ClientID %>').attr('tabindex', start + 10);\n      jQuery('#<%=ddlPartnerChildHistory.ClientID %>').attr('tabindex', start + 20);\n\n      jQuery('#<%=ddlMOMSAMICH.ClientID %>').attr('tabindex', start + 1);\n      jQuery('#<%=ddlDADSAMICH.ClientID %>').attr('tabindex', start + 11);\n      jQuery('#<%=ddlPartnerSAMICH.ClientID %>').attr('tabindex', start + 21);\n\n      jQuery('#<%=ddlMOMCPS.ClientID %>').attr('tabindex', start + 2);\n      jQuery('#<%=ddlDADCPS.ClientID %>').attr('tabindex', start + 12);\n      jQuery('#<%=ddlPartnerCPS.ClientID %>').attr('tabindex', start + 22);\n\n      jQuery('#<%=ddlMOMSelfEsteem.ClientID %>').attr('tabindex', start + 3);\n      jQuery('#<%=ddlDADSelfEsteem.ClientID %>').attr('tabindex', start + 13);\n      jQuery('#<%=ddlPartnerSelfEsteem.ClientID %>').attr('tabindex', start + 23);\n\n      jQuery('#<%=ddlMOMStressor.ClientID %>').attr('tabindex', start + 4);\n      jQuery('#<%=ddlDADStressor.ClientID %>').attr('tabindex', start + 14);\n      jQuery('#<%=ddlPartnerStressor.ClientID %>').attr('tabindex', start + 24);\n\n      jQuery('#<%=ddlMOMViolent.ClientID %>').attr('tabindex', start + 5);\n      jQuery('#<%=ddlDADViolent.ClientID %>').attr('tabindex', start + 15);\n      jQuery('#<%=ddlPartnerViolent.ClientID %>').attr('tabindex', start + 25);\n\n      jQuery('#<%=ddlMOMExpectation.ClientID %>').attr('tabindex', start + 6);\n      jQuery('#<%=ddlDADExpectation.ClientID %>').attr('tabindex', start + 16);\n      jQuery('#<%=ddlPartnerExpectation.ClientID %>').attr('tabindex', start + 26);\n\n      jQuery('#<%=ddlMOMDiscipline.ClientID %>').attr('tabindex', start + 7);\n      jQuery('#<%=ddlDADDiscipline.ClientID %>').attr('tabindex', start + 17);\n      jQuery('#<%=ddlPartnerDiscipline.ClientID %>').attr('tabindex', start + 27);\n\n      jQuery('#<%=ddlMomPerception.ClientID %>').attr('tabindex', start + 8);\n      jQuery('#<%=ddlDADPerception.ClientID %>').attr('tabindex', start + 18);\n      jQuery('#<%=ddlPartnerPerception.ClientID %>').attr('tabindex', start + 28);\n\n      jQuery('#<%=ddlMOMBonding.ClientID %>').attr('tabindex', start + 9);\n      jQuery('#<%=ddlDADBonding.ClientID %>').attr('tabindex', start + 19);\n      jQuery('#<%=ddlPartnerBonding.ClientID %>').attr('tabindex', start + 29);\n    }\n\n    function InitialKempeResult() {\n      document.getElementById(\"<%= txtKempeResult.CLIENTID %>\").value = \"Negative\";\n    }\n\n    function KempeHITSScore() {\n      var booHITSValid = HITSValidity();\n      if (booHITSValid) {\n        var intKHSTotalScore;\n        intKHSTotalScore = HITSTotal('[ID$=\"ddlHITSHurt\"] :selected')\n              + HITSTotal('[ID$=\"ddlHITSInsult\"] :selected')\n              + HITSTotal('[ID$=\"ddlHITSThreaten\"] :selected')\n              + HITSTotal('[ID$=\"ddlHITSScream\"] :selected');\n\n        jQuery('[ID$=\"lblHITSScore\"]').text(intKHSTotalScore);\n        jQuery('[ID$=\"hfHITSScore\"]').val(intKHSTotalScore);\n        jQuery('[ID$=\"ddlHITSNotDoneReason\"]').attr('disabled', 'disabled');\n        HITSResult();\n      } else {\n        jQuery('[ID$=\"lblHITSScore\"]').text(\"N/A\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfHITSScore\"]').val(\"N/A\");\n        jQuery('[ID$=\"lblHITSResult\"]').text(\"N/A\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfHITSResult\"]').val(\"N/A\");\n        jQuery('[ID$=\"ddlHITSNotDoneReason\"]').removeAttr('disabled');\n      }\n    }\n\n    function HITSTotal(strHScoreControlSelector) {\n      var intReturn = parseInt(jQuery(strHScoreControlSelector).val());\n      intReturn = intReturn === NaN ? 0 : intReturn;\n      return intReturn\n    }\n\n    function HITSResult() {\n      var totalHITSScore = 0;\n      totalHITSScore = jQuery('[ID$=\"lblHITSScore\"]').text();\n      if (totalHITSScore >= 11) {\n        jQuery('[ID$=\"lblHITSScore\"]').addClass(\"Valid\").removeClass(\"Invalid\");\n        jQuery('[ID$=\"lblHITSResult\"]').text(\"Positive\").addClass(\"Valid\").removeClass(\"Invalid\");\n        jQuery('[ID$=\"hfHITSResult\"]').val(\"Positive\");\n        jQuery('[ID$=\"spanHITSPositiveMessage\"]').show();\n        jQuery('[ID$=\"ddlDomesticViolence\"]').val(1);\n      } else {\n        jQuery('[ID$=\"lblHITSScore\"]').addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"lblHITSResult\"]').text(\"Negative\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfHITSResult\"]').val(\"Negative\");\n      }\n    }\n\n    function HITSValidity() {\n      var booReturn = false;\n      jQuery('[ID$=\"spanHITSPositiveMessage\"]').hide();\n      if (jQuery('[ID$=\"ddlHITSHurt\"] :selected').val() == \"\"\n            || jQuery('[ID$=\"ddlHITSInsult\"] :selected').val() == \"\"\n            || jQuery('[ID$=\"ddlHITSThreaten\"] :selected').val() == \"\"\n            || jQuery('[ID$=\"ddlHITSScream\"] :selected').val() == \"\") {\n\n        jQuery('[ID$=\"lblHITSScoreValidity\"]').text(\"Invalid\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfHITSScoreValidity\"]').val(\"Invalid\");\n      } else {\n        jQuery('[ID$=\"lblHITSScoreValidity\"]').text(\"Valid\").addClass(\"Valid\").removeClass(\"Invalid\");\n        jQuery('[ID$=\"hfHITSScoreValidity\"]').val(\"Valid\");\n        booReturn = true;\n      }\n      return booReturn;\n    }\n\n    function KempeAuditCScore() {\n      var booAuditCValid = AuditCValidity();\n      if (booAuditCValid) {\n        var intKASTotalScore;\n        intKASTotalScore = AuditCTotal('[ID$=\"ddlAuditCHowOften\"] :selected')\n              + AuditCTotal('[ID$=\"ddlAuditCDailyDrinks\"] :selected')\n              + AuditCTotal('[ID$=\"ddlAuditCMoreThanSix\"] :selected')\n\n        jQuery('[ID$=\"lblAuditCScore\"]').text(intKASTotalScore).addClass(\"Valid\").removeClass(\"Invalid\");\n        jQuery('[ID$=\"hfAuditCScore\"]').val(intKASTotalScore);\n        AuditCResult();\n      } else {\n        jQuery('[ID$=\"lblAuditCScore\"]').text(\"N/A\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfAuditCScore\"]').val(\"N/A\");\n        jQuery('[ID$=\"lblAuditCResult\"]').text(\"N/A\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfAuditCResult\"]').val(\"N/A\");\n      }\n    }\n\n    function AuditCTotal(strACScoreControlSelector) {\n      var temp = jQuery(strACScoreControlSelector).text();\n      /* use a regex to match the text inside of parentheses, which is the score */\n      temp = temp.match(/[^\\(]+?(?=\\))/gi);\n\n      var intACReturn = parseInt(temp);\n      intACReturn = intACReturn === NaN ? 0 : intACReturn;\n      return intACReturn\n    }\n\n    function AuditCResult() {\n      var totalAuditCScore, question1Score = 0;\n      totalAuditCScore = jQuery('[ID$=\"lblAuditCScore\"]').text();\n      question1Score = AuditCTotal('[ID$=\"ddlAuditCHowOften\"] :selected');\n      if (totalAuditCScore >= 3 && (totalAuditCScore - question1Score) > 0) {\n        jQuery('[ID$=\"lblAuditCResult\"]').text(\"Positive\").addClass(\"Valid\").removeClass(\"Invalid\");\n        jQuery('[ID$=\"hfAuditCResult\"]').val(\"Positive\");\n        jQuery('[ID$=\"spanAuditCPositiveMessage\"]').show();\n        jQuery('[ID$=\"ddlAlcoholAbuse\"]').val(1);\n      } else {\n        jQuery('[ID$=\"lblAuditCResult\"]').text(\"Negative\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfAuditCResult\"]').val(\"Negative\");\n      }\n    }\n\n    function AuditCValidity() {\n      var booACReturn = false;\n      jQuery('[ID$=\"spanAuditCPositiveMessage\"]').hide();\n      if (jQuery('[ID$=\"ddlAuditCHowOften\"] :selected').val() == \"\"\n            || jQuery('[ID$=\"ddlAuditCDailyDrinks\"] :selected').val() == \"\"\n            || jQuery('[ID$=\"ddlAuditCMoreThanSix\"] :selected').val() == \"\") {\n\n        jQuery('[ID$=\"lblAuditCScoreValidity\"]').text(\"Invalid\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfAuditCScoreValidity\"]').val(\"Invalid\");\n      } else {\n        jQuery('[ID$=\"lblAuditCScoreValidity\"]').text(\"Valid\").addClass(\"Valid\").removeClass(\"Invalid\");\n        jQuery('[ID$=\"hfAuditCScoreValidity\"]').val(\"Valid\");\n        booACReturn = true;\n      }\n      return booACReturn;\n    }\n\n    function AuditCDisableControls() {\n      if (jQuery('[ID$=\"ddlAuditCHowOften\"] :selected').val() == \"1\") {\n        jQuery('[ID$=\"ddlAuditCDailyDrinks\"]').val(\"\").attr('disabled', 'disabled');\n        jQuery('[ID$=\"ddlAuditCMoreThanSix\"]').val(\"\").attr('disabled', 'disabled');\n        jQuery('[ID$=\"lblAuditCScore\"]').text(\"0\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfAuditCScore\"]').val(\"0\");\n        jQuery('[ID$=\"lblAuditCResult\"]').text(\"Negative\").addClass(\"Invalid\").removeClass(\"Valid\");\n        jQuery('[ID$=\"hfAuditCResult\"]').val(\"Negative\");\n        jQuery('[ID$=\"lblAuditCScoreValidity\"]').text(\"Valid\").addClass(\"Valid\").removeClass(\"Invalid\");\n        jQuery('[ID$=\"hfAuditCScoreValidity\"]').val(\"Valid\");\n      } else {\n        jQuery('[ID$=\"ddlAuditCDailyDrinks\"]').removeAttr('disabled');\n        jQuery('[ID$=\"ddlAuditCMoreThanSix\"]').removeAttr('disabled');\n      }\n    }\n\n    // Numeric only control handler\n    jQuery.fn.ForceNumericOnly =\n        function () {\n          return this.each(function () {\n            jQuery(this).keydown(function (e) {\n              var key = e.charCode || e.keyCode || 0;\n              // allow backspace, tab, delete, arrows, numbers and keypad numbers ONLY \n              return (\n                key == 8 ||\n                key == 9 ||\n                key == 46 ||\n                (key >= 37 && key <= 40) ||\n                (key >= 48 && key <= 57) ||\n                (key >= 96 && key <= 105));\n            })\n          })\n        };\n\n",
+			"    ",
+			"Lists",
+			"sky",
+			"ddlevel",
+			"length",
+			"validval",
+			"beforeprep",
+			"frmRptQualityAssurance ",
+			"level",
+			"generic",
+			"/>                                            ",
+			"phq9score",
+			"butter",
+			"again",
+			"low",
+			"just",
+			"die you",
+			"wreck",
+			"week",
+			"world",
+			"sugar",
+			"silly",
+			"amaz",
+			"time of my",
+			"world",
+			"rainb",
+			"bless",
+			"leo",
+			"like me",
+			"smash",
+			"allst",
+			"unwritte",
+			"beat",
+			"jet pla",
+			"darling",
+			"nikki",
+			"freak",
+			"queen",
+			"raise",
+			"dance",
+			"parad",
+			"katy",
+			"there",
+			"break",
+			"chick",
+			"hokey",
+			"Thong",
+			"friends",
+			"dio",
+			"friends",
+			"thon",
+			"thong",
+			"javascr",
+			"XrLabel3",
+			"xrlabel3",
+			"caselist",
+			"now",
+			"14",
+			"tablecell",
+			"12",
+			"9",
+			"total",
+			"22",
+			"group",
+			"total",
+			"42",
+			"red",
+			".snippet",
+			"\"]');",
+			"', '[ID$=\"",
+			"?:",
+			"?",
+			"%",
+			"bottom"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			" = ",
+			"\"",
+			"Users",
+			"phq9score",
+			"XrLabel30",
+			"16",
+			"Label",
+			"15",
+			"group",
+			"14",
+			"total",
+			"group",
+			"22",
+			"",
+			"○○○○○",
+			"\\t\\t",
+			"E:",
+			"E"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 2379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1443,
+								1443
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/main.html",
+					"settings":
+					{
+						"buffer_size": 8432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/jr286576/Downloads/zepto.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Dev/HFNY-Proto/HFNY-Proto.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true
+}
